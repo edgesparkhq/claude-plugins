@@ -1,0 +1,13 @@
+{
+  "name": "edgespark",
+  "version": "0.0.1",
+  "description": "Build full-stack apps on EdgeSpark with database, auth, and file storage.",
+  "author": {
+    "name": "EdgeSpark",
+    "url": "https://edgespark.dev"
+  },
+  "homepage": "https://edgespark.dev",
+  "repository": "https://github.com/edgesparkhq/edgespark-claude-plugins",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
