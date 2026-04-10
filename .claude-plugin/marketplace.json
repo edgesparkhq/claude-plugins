@@ -12,7 +12,6 @@
       "name": "edgespark",
       "source": "./plugins/edgespark",
       "description": "Build full-stack apps on EdgeSpark with database, auth, and file storage. Covers backend (Hono + Drizzle ORM), frontend client SDK (@edgespark/web), authentication, storage, and deployment workflows.",
-      "version": "0.0.2",
       "author": {
         "name": "edgespark dev team"
       },
